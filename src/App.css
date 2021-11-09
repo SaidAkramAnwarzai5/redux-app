@@ -13,6 +13,45 @@
   }
 }
 
+
+.btn-warpper button
+{
+  background-color: red;
+  border: 0px;
+  padding: 10px;
+  border-radius: 4px;
+  color:#fff;
+  box-shadow: #333 0px 1px 5px;
+}
+
+.img-warpper img {
+  width: 100px;
+  margin-top: -10px;
+}
+
+.cart-warpper {
+
+  height: 100px;
+  width: 500px;
+  border: 1px solid #ccc;
+  margin-left: 10%;
+}
+
+.item {
+  float: left;
+  width: 120px;
+  padding: 20px;
+  height: 70px;
+
+}
+
+.add-to-card  img {
+  width: 80px;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
